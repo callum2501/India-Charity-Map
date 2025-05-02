@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Charity Map</title>
+    <title>Our Partners</title>
     <style>
         #map {
             height: 100%;
@@ -14,7 +14,7 @@
             height: 100%;
         }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFzxdgMSZHZTmj9rceMpneuzp6Q6bMfbk&callback=initMap" async defer></script>
 </head>
 <body>
     <div id="map"></div>
